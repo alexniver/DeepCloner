@@ -1,7 +1,9 @@
-# Fetch From [DeepCloner](https://github.com/force-net/DeepCloner)
 
 ## Different from Fetch From [DeepCloner](https://github.com/force-net/DeepCloner)
 if struts have class in it, class will only clone ref, because struts only use shallow copy, and it fast, so do not contain class in struts.
+
+
+# Fetch From [DeepCloner](https://github.com/force-net/DeepCloner)
 
 Library with extenstion to clone objects for .NET. It can deep or shallow copy objects. In deep cloning all object graph is maintained. Library actively uses code-generation in runtime as result object cloning is blazingly fast.
 Also, there are some performance tricks to increase cloning speed (see tests below).
