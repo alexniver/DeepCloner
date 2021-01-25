@@ -1,4 +1,4 @@
-# Fetch From DeepCloner[https://github.com/force-net/DeepCloner]
+# Fetch From [DeepCloner](https://github.com/force-net/DeepCloner)
 
 Library with extenstion to clone objects for .NET. It can deep or shallow copy objects. In deep cloning all object graph is maintained. Library actively uses code-generation in runtime as result object cloning is blazingly fast.
 Also, there are some performance tricks to increase cloning speed (see tests below).
